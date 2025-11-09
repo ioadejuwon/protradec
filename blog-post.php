@@ -12,7 +12,7 @@ include_once "components/header.php";
 ?>
 
 <!-- start: Breadcrumb Section -->
-<section class="tj-page-header section-gap-x" data-bg-image="admin/assets/images/bg/pheader-bg.webp">
+<section class="tj-page-header section-gap-x" data-bg-image="admin/assets/images/hero1.jpg">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -43,14 +43,14 @@ include_once "components/header.php";
       <div class="col-lg-8">
         <div class="post-details-wrapper">
           <div class="blog-images wow fadeInUp" data-wow-delay=".1s">
-            <img src="admin/assets/images/blog/blog-1.webp" alt="Images">
+            <img src="admin/assets/images/image1.jpg" alt="Images">
           </div>
           <h2 class="title title-anim">Unlocking Business Potential: Innovative Solutions for Unmatched Success
           </h2>
           <div class="blog-category-two wow fadeInUp" data-wow-delay=".3s">
             <div class="category-item">
               <div class="cate-images">
-                <img src="admin/assets/images/testimonial/client-2.webp" alt="Images">
+                <img src="admin/assets/images/testimonial.png" alt="Images">
               </div>
               <div class="cate-text">
                 <span class="degination">Authored by</span>
@@ -63,7 +63,7 @@ include_once "components/header.php";
               </div>
               <div class="cate-text">
                 <span class="degination">Date Released</span>
-                <h6 class="text">29 December, 2025</h6>
+                <h6 class="text">29 November, 2025</h6>
               </div>
             </div>
             <div class="category-item">
@@ -111,12 +111,12 @@ include_once "components/header.php";
               <div class="row">
                 <div class="col-sm-6">
                   <div class="image-box wow fadeInUp" data-wow-delay=".3s">
-                    <img src="admin/assets/images/blog/blog-9.webp" alt="Image">
+                    <img src="admin/assets/images/worker1.png" alt="Image">
                   </div>
                 </div>
                 <div class="col-sm-6">
                   <div class="image-box wow fadeInUp" data-wow-delay=".5s">
-                    <img src="admin/assets/images/blog/blog-10.webp" alt="Image">
+                    <img src="admin/assets/images/worker1.png" alt="Image">
                   </div>
                 </div>
               </div>
@@ -135,13 +135,13 @@ include_once "components/header.php";
               <li><span><i class="tji-check"></i></span>Resilience</li>
               <li><span><i class="tji-check"></i></span>Continuous Learning</li>
             </ul>
-            <div class="blog-video wow fadeInUp" data-wow-delay=".3s">
+            <!-- <div class="blog-video wow fadeInUp" data-wow-delay=".3s">
               <img src="admin/assets/images/blog/blog-video.webp" alt="Video">
               <a class="video-btn video-popup" data-autoplay="true" data-vbtype="video" data-maxwidth="1200px"
                 href="https://www.youtube.com/watch?v=MLpWrANjFbI&ab_channel=eidelchteinadvogados">
                 <span><i class="tji-play"></i></span>
               </a>
-            </div>
+            </div> -->
             <h3 class="wow fadeInUp" data-wow-delay=".3s">Conclusions</h3>
             <p class="wow fadeInUp" data-wow-delay=".3s">Unlocking your business’s full potential is a journey
               that
@@ -195,7 +195,7 @@ include_once "components/header.php";
             </div>
           </div>
 
-          <div class="tj-comments-container">
+          <div class="tj-comments-container d-none">
             <div class="tj-comments-wrap">
               <div class="comments-title">
                 <h3 class="title">Top Comments (02)</h3>

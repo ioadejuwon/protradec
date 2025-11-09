@@ -9,36 +9,14 @@ include_once "components/sidebar.php";
 include_once "components/hamburger.php";
 
 include_once "components/header.php";
+include_once "components/top.php";
 ?>
 
-<!-- start: Breadcrumb Section -->
-<section class="tj-page-header section-gap-x" data-bg-image="admin/assets/images/bg/pheader-bg.webp">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="tj-page-header-content text-center">
-          <h1 class="tj-page-title">Login</h1>
-          <div class="tj-page-link">
-            <span><i class="tji-home"></i></span>
-            <span>
-              <a href="index.html">Home</a>
-            </span>
-            <span><i class="tji-arrow-right"></i></span>
-            <span>
-              <span>Login</span>
-            </span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="page-header-overlay" data-bg-image="admin/assets/images/shape/pheader-overlay.webp"></div>
-</section>
-<!-- end: Breadcrumb Section -->
+
 
 
 <!-- start: Contact Section -->
-<section class="tj-contact-section section-gap section-gap-x">
+<section class="full-width tj-contact-sectio section-gap section-gap-" style="border-radius : 0px">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -73,7 +51,7 @@ include_once "components/header.php";
         </div>
       </div>
       <div class="col-lg-6">
-        <div class="contact-form style-2 wow fadeInUp" data-wow-delay=".4s">
+        <div class="contact-form style-2 wow fadeInUp" data-wow-delay=".4s" style="background-color: #000000a7;">
           <div class="sec-heading">
             <span class="sub-title text-white"><i class="tji-box"></i>Get in Touch</span>
             <h2 class="sec-title title-anim">Drop Us a <span>Line.</span></h2>
@@ -137,81 +115,7 @@ include_once "components/header.php";
   </div>
 </section>
 <!-- end: Contact Section -->
-<!-- start: Login Section -->
-<section class="full-width tj-contact-section section-gap">
-  <div class="container">
-    <div class="row">
-      <div class="col-8">
-        <div class="tj-page__container">
-          <div class="tj-entry__content">
-            <div class="woocommerce">
-              <div class="woo-login-form">
-                <h3>Login</h3>
-                <div class="contact-form style-3 wow fadeInUp" data-wow-delay=".4s">
 
-                  <form id="contact-form-3">
-                    <div class="row wow fadeInUp" data-wow-delay=".5s">
-                      <div class="col-sm-6">
-                        <div class="form-input">
-                          <label class="cf-label">Full Name *</label>
-                          <input type="text" name="cfName3">
-                        </div>
-                      </div>
-                      <div class="col-sm-6">
-                        <div class="form-input">
-                          <label class="cf-label">Email Address *</label>
-                          <input type="email" name="cfEmail3">
-                        </div>
-                      </div>
-                      <div class="col-sm-6">
-                        <div class="form-input">
-                          <label class="cf-label">Phone number *</label>
-                          <input type="tel" name="cfPhone3">
-                        </div>
-                      </div>
-                      <div class="col-sm-6">
-                        <div class="form-input">
-                          <div class="tj-nice-select-box">
-                            <div class="tj-select">
-                              <label class="cf-label">Chose a option</label>
-                              <select name="cfSubject3">
-                                <option value="1">Business Strategy</option>
-                                <option value="2">Customer Experience</option>
-                                <option value="3">Sustainability and ESG</option>
-                                <option value="4">Training and Development</option>
-                                <option value="5">IT Support & Maintenance</option>
-                                <option value="6">Marketing Strategy</option>
-                              </select>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-sm-12">
-                        <div class="form-input message-input">
-                          <label class="cf-label">Message here... *</label>
-                          <textarea name="cfMessage3" id="message"></textarea>
-                        </div>
-                      </div>
-                      <div class="submit-btn">
-                        <button class="tj-primary-btn" type="submit">
-                          <span class="btn-text"><span>Send Message</span></span>
-                          <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
-                        </button>
-                      </div>
-                    </div>
-                  </form>
-                </div>
-              </div>
-
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- end: Login Section -->
 
 <?php
 include_once "components/cta.php";

@@ -8,7 +8,7 @@
               <div class="footer-widget wow fadeInUp" data-wow-delay=".1s">
                 <div class="footer-logo">
                   <a href="<?php echo HOME ?>">
-                    <img src="admin/assets/images/logos/logo-2.png" alt="Logos">
+                    <img src="admin/assets/images/logo-2.png" alt="Logos">
                   </a>
                 </div>
                 <div class="footer-text">

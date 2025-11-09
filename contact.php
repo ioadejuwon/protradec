@@ -1,5 +1,5 @@
 <?php
-$pagetitle = "Contact";
+$pagetitle = "Contact Us";
 include_once "components/head.php";
 include_once "components/preloader.php";
 include_once "components/back-to-top.php";
@@ -9,32 +9,9 @@ include_once "components/sidebar.php";
 include_once "components/hamburger.php";
 
 include_once "components/header.php";
+include_once "components/top.php";
 ?>
 
-<!-- start: Breadcrumb Section -->
-<section class="tj-page-header section-gap-x" data-bg-image="admin/assets/images/bg/pheader-bg.webp">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="tj-page-header-content text-center">
-          <h1 class="tj-page-title">Contact Us</h1>
-          <div class="tj-page-link">
-            <span><i class="tji-home"></i></span>
-            <span>
-              <a href="index.html">Home</a>
-            </span>
-            <span><i class="tji-arrow-right"></i></span>
-            <span>
-              <span>Contact Us</span>
-            </span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="page-header-overlay" data-bg-image="admin/assets/images/shape/pheader-overlay.webp"></div>
-</section>
-<!-- end: Breadcrumb Section -->
 
 <!-- start: Contact Top Section -->
 <div class="tj-contact-area section-gap">
