@@ -94,13 +94,13 @@ include_once "components/header.php";
   <div class="swiper hero-thumb wow fadeIn" data-wow-delay="2s">
     <div class="swiper-wrapper">
       <div class="swiper-slide thumb-item">
-        <img src="admin/assets/images/hero1.jpg" alt="Thumbnail">
+        <img src="admin/assets/images/square.png" alt="Thumbnail">
       </div>
       <div class="swiper-slide thumb-item">
-        <img src="admin/assets/images/hero2.jpg" alt="Thumbnail">
+        <img src="admin/assets/images/square.png" alt="Thumbnail">
       </div>
       <div class="swiper-slide thumb-item">
-        <img src="admin/assets/images/hero1.jpg" alt="Thumbnail">
+        <img src="admin/assets/images/square.png" alt="Thumbnail">
       </div>
     </div>
   </div>
