@@ -12,7 +12,7 @@
 
                     <!-- navigation -->
                     <div class="menu-area d-none d-lg-inline-flex align-items-center">
-                        <nav id="mobile-menu" class="mainmenu">
+                        <nav id="mobile-menu" class="mainmenu"> 
                             <ul>
                                 <li><a href="<?php echo ABOUT ?>">About</a></li>
                                 <li><a href="<?php echo SERVICES ?>">Services</a></li>
