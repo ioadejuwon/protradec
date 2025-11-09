@@ -9,33 +9,11 @@ include_once "components/sidebar.php";
 include_once "components/hamburger.php";
 
 include_once "components/header.php";
+include_once "components/top.php";
 ?>
 
 
-      <!-- start: Breadcrumb Section -->
-      <section class="tj-page-header section-gap-x" data-bg-image="admin/assets/images/bg/pheader-bg.webp">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <div class="tj-page-header-content text-center">
-                <h1 class="tj-page-title">Service</h1>
-                <div class="tj-page-link">
-                  <span><i class="tji-home"></i></span>
-                  <span>
-                    <a href="index.html">Home</a>
-                  </span>
-                  <span><i class="tji-arrow-right"></i></span>
-                  <span>
-                    <span>Service</span>
-                  </span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="page-header-overlay" data-bg-image="admin/assets/images/shape/pheader-overlay.webp"></div>
-      </section>
-      <!-- end: Breadcrumb Section -->
+    
 
       <!-- start: Service Section -->
       <section class="tj-service-section service-4 section-gap">
@@ -47,100 +25,18 @@ include_once "components/header.php";
                   <i class="tji-service-1"></i>
                 </div>
                 <div class="service-content">
-                  <h4 class="title"><a href="service-details.html">Business Strategy Development</a></h4>
+                  <h4 class="title"><a href="<?php echo SERVICE ?>">Business Strategy Development</a></h4>
                   <p class="desc">Customer Experience Solutions are designed to enhance every touchpoint of your
                     customer
                     journey, from first interaction.</p>
-                  <a class="text-btn" href="service-details.html">
+                  <a class="text-btn" href="<?php echo SERVICE ?>">
                     <span class="btn-text"><span>Learn More</span></span>
                     <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
                   </a>
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6">
-              <div class="service-item style-4 wow fadeInUp" data-wow-delay=".3s">
-                <div class="service-icon">
-                  <i class="tji-service-2"></i>
-                </div>
-                <div class="service-content">
-                  <h4 class="title"><a href="service-details.html">Customer Experience Solutions</a></h4>
-                  <p class="desc">We stay ahead of the curve, leveraging cutting-edge technologies and strategies to
-                    keep
-                    you competitive in a marketplace.</p>
-                  <a class="text-btn" href="service-details.html">
-                    <span class="btn-text"><span>Learn More</span></span>
-                    <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-              <div class="service-item style-4 wow fadeInUp" data-wow-delay=".5s">
-                <div class="service-icon">
-                  <i class="tji-service-5"></i>
-                </div>
-                <div class="service-content">
-                  <h4 class="title"><a href="service-details.html">IT Support & Maintenance</a></h4>
-                  <p class="desc">Our IT Support & Maintenance services ensure that your technology infrastructure is
-                    running smoothly and securely.</p>
-                  <a class="text-btn" href="service-details.html">
-                    <span class="btn-text"><span>Learn More</span></span>
-                    <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-              <div class="service-item style-4 wow fadeInUp" data-wow-delay=".7s">
-                <div class="service-icon">
-                  <i class="tji-service-3"></i>
-                </div>
-                <div class="service-content">
-                  <h4 class="title"><a href="service-details.html">Sustainability and ESG Consulting</a></h4>
-                  <p class="desc">We stay ahead of the curve, leveraging cutting-edge technologies and strategies to
-                    keep
-                    you competitive in a marketplace.</p>
-                  <a class="text-btn" href="service-details.html">
-                    <span class="btn-text"><span>Learn More</span></span>
-                    <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-              <div class="service-item style-4 wow fadeInUp" data-wow-delay=".9s">
-                <div class="service-icon">
-                  <i class="tji-service-4"></i>
-                </div>
-                <div class="service-content">
-                  <h4 class="title"><a href="service-details.html">Training and Development Programs</a></h4>
-                  <p class="desc">We stay ahead of the curve, leveraging cutting-edge technologies and strategies to
-                    keep
-                    you competitive in a marketplace.</p>
-                  <a class="text-btn" href="service-details.html">
-                    <span class="btn-text"><span>Learn More</span></span>
-                    <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-              <div class="service-item style-4 wow fadeInUp" data-wow-delay="1s">
-                <div class="service-icon">
-                  <i class="tji-service-6"></i>
-                </div>
-                <div class="service-content">
-                  <h4 class="title"><a href="service-details.html">Marketing Strategy & Campaigns</a></h4>
-                  <p class="desc">Effective marketing is key to our driving business growth. Our Marketing Strategy &
-                    Campaigns service.</p>
-                  <a class="text-btn" href="service-details.html">
-                    <span class="btn-text"><span>Learn More</span></span>
-                    <span class="btn-icon"><i class="tji-arrow-right-long"></i></span>
-                  </a>
-                </div>
-              </div>
-            </div>
+
           </div>
         </div>
       </section>
@@ -157,9 +53,9 @@ include_once "components/header.php";
                   <div class="location-indicator loc-1">
                     <div class="location-tooltip">
                       <span>Head office:</span>
-                      <p>993 Renner Burg, West Rond, MT 94251-030, USA.</p>
-                      <a href="tel:10095447818">P: +1 (009) 544-7818</a>
-                      <a href="mailto:support@bexon.com">M: support@bexon.com</a>
+                      <p>ADDRESS.</p>
+                      <a href="tel:10095447818">P: +1 (009) PHONE</a>
+                      <a href="mailto:support@bexon.com">M: support@protradec.com</a>
                     </div>
                   </div>
                   <div class="location-indicator loc-2">
@@ -268,27 +164,27 @@ include_once "components/header.php";
                   </div>
                   <div class="swiper-slide client-item">
                     <div class="client-logo">
-                      <img src="admin/assets/images/brands/brand-2.webp" alt="">
+                      <img src="admin/assets/images/brands/brand-1.webp" alt="">
                     </div>
                   </div>
                   <div class="swiper-slide client-item">
                     <div class="client-logo">
-                      <img src="admin/assets/images/brands/brand-3.webp" alt="">
+                      <img src="admin/assets/images/brands/brand-1.webp" alt="">
                     </div>
                   </div>
                   <div class="swiper-slide client-item">
                     <div class="client-logo">
-                      <img src="admin/assets/images/brands/brand-4.webp" alt="">
+                      <img src="admin/assets/images/brands/brand-1.webp" alt="">
                     </div>
                   </div>
                   <div class="swiper-slide client-item">
                     <div class="client-logo">
-                      <img src="admin/assets/images/brands/brand-5.webp" alt="">
+                      <img src="admin/assets/images/brands/brand-1.webp" alt="">
                     </div>
                   </div>
                   <div class="swiper-slide client-item">
                     <div class="client-logo">
-                      <img src="admin/assets/images/brands/brand-6.webp" alt="">
+                      <img src="admin/assets/images/brands/brand-1.webp" alt="">
                     </div>
                   </div>
                 </div>
