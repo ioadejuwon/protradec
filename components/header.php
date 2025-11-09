@@ -7,7 +7,7 @@
                 <div class="header-wrapper">
                     <!-- site logo -->
                     <div class="site_logo">
-                        <a class="logo" href="<?php echo HOME ?>"><img src="admin/assets/images/logos/logo-2.png" alt=""></a>
+                        <a class="logo" href="<?php echo HOME ?>"><img src="admin/assets/images/logo-2.png" alt=""></a>
                     </div>
 
                     <!-- navigation -->
@@ -97,7 +97,7 @@
                 <div class="header-wrapper">
                     <!-- site logo -->
                     <div class="site_logo">
-                        <a class="logo" href="<?php echo HOME ?>"><img src="admin/assets/images/logos/logo-2.png" alt=""></a>
+                        <a class="logo" href="<?php echo HOME ?>"><img src="admin/assets/images/logo-2.png" alt=""></a>
                     </div>
 
                     <!-- navigation -->
