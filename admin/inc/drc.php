@@ -16,7 +16,7 @@ if ($_SERVER['HTTP_HOST'] == 'localhost:8888') {
     define('ADMIN_URL', 'http://oreoluwas-macbook-pro.local:8888/'.FOLDER.'/admin');
 } else {
     // Hosting environment
-    define('BASE_URL', 'https://protradec.com/');
+    define('BASE_URL', 'https://protradec.martville.app/');
     define('ADMIN_URL', 'https://admin.protradec.com/');
 }
 

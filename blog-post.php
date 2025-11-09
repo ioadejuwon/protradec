@@ -21,7 +21,7 @@ include_once "components/header.php";
           <div class="tj-page-link">
             <span><i class="tji-home"></i></span>
             <span>
-              <a href="index.html">Home</a>
+              <a href="<?php echo HOME ?>">Home</a>
             </span>
             <span><i class="tji-arrow-right"></i></span>
             <span>
