@@ -36,7 +36,7 @@
                      <img src="admin/assets/img/PISL-Logo.png" data-at2x="admin/assets/img/PISL-Logo.png" alt="" class="default-logo">
                      <!-- <img src="admin/assets/images/demo-logistics-logo-black.png" data-at2x="admin/assets/images/demo-logistics-logo-black@2x.png" alt="" class="default-logo"> -->
                      <img src="admin/assets/img/PISL-Logo.png" data-at2x="admin/assets/img/PISL-Logo.png" alt="" class="alt-logo">
-                     <img src="admin/assets/images/demo-logistics-logo-black.png" data-at2x="admin/assets/images/demo-logistics-logo-black@2x.png" alt="" class="mobile-logo">
+                     <img src="v" data-at2x="admin/assets/img/PISL-Logo.png" alt="" class="mobile-logo">
                  </a>
              </div>
              <div class="col-auto menu-order left-nav">
