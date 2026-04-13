@@ -47,7 +47,7 @@
                 <div
                     class="col text-center border-end border-color-transparent-dark-very-light sm-border-end-0 md-border-top transition-inner-all pt-45px pb-45px sm-pt-30px sm-pb-30px">
                     <div class="client-box">
-                        <a href="#"><img src="admin/assets/img/pisl-logo.png" alt=""  style="width: 50%;"/></a>
+                        <a href="#"><img src="admin/assets/img/pisl-logo.png" alt="PISL Logo"  style="width: 50%;"/></a>
                     </div>
                 </div>
                 <!-- end client item -->
