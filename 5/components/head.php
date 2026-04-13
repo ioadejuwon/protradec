@@ -16,8 +16,8 @@
     <meta property="og:title" content="<?php echo $pagetitle; ?> - Protradec Intergrated Services" />
     <meta property="og:url" content="https://protradec.com" />
     <meta name="og:description" content="Protadec Intergrated Services is an indigenous Engineering Construction Company that is duly registered and authorized to carry out Engineering Construction Works in the areas of Civil, Bridges, Roads & Highways, Structures/Building, Drainage and general turnkey contracts.">
-    <meta property="og:image" content="<?php echo BASE_URL ?>5/admin/assets/images/procover.png" />
-    <meta name="twitter:image" content="<?php echo BASE_URL ?>5/admin/assets/images/procover.png" />
+    <meta property="og:image" content="<?php echo BASE_URL ?>5/admin/assets/img/procover.png" />
+    <meta name="twitter:image" content="<?php echo BASE_URL ?>5/admin/assets/img/procover.png" />
 
     <meta name="twitter:site" content="@usemartville" />
     <meta name="twitter:card" content="summary" />
