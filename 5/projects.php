@@ -18,9 +18,10 @@ include_once "components/project-header.php";
                     <!-- start gallery item -->
                     <li class="grid-item transition-inner-all">
                         <div class="gallery-box border-radius-6px">
-                            <a href="admin/assets/images/demo-green-energy-home-slider-img-01.jpg" data-group="lightbox-gallery" title="Lightbox gallery image title">
+                            <a href="project-single" >
+                                <!-- <a href="admin/assets/img/about.png" data-group="lightbox-gallery" title="Lightbox gallery image title"></a> -->
                                 <div class="position-relative gallery-image bg-dark-gray overflow-hidden">
-                                    <img src="admin/assets/images/demo-green-energy-home-slider-img-01.jpg" alt="" />
+                                    <img src="admin/assets/img/about.png" alt="" />
                                     <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
                                         <div class="d-flex align-items-center justify-content-center w-60px h-60px rounded-circle bg-white">
                                             <i class="icon feather icon-feather-search icon-extra-medium text-dark-gray"></i>
@@ -31,86 +32,7 @@ include_once "components/project-header.php";
                         </div>
                     </li>
                     <!-- end gallery item -->
-                    <!-- start gallery item -->
-                    <li class="grid-item transition-inner-all">
-                        <div class="gallery-box border-radius-6px">
-                            <a href="admin/assets/images/demo-green-energy-home-slider-img-02.jpg" data-group="lightbox-gallery" title="Lightbox gallery image title">
-                                <div class="position-relative gallery-image bg-dark-gray overflow-hidden">
-                                    <img src="admin/assets/images/demo-green-energy-home-slider-img-02.jpg" alt="" />
-                                    <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
-                                        <div class="d-flex align-items-center justify-content-center w-60px h-60px rounded-circle bg-white">
-                                            <i class="icon feather icon-feather-search icon-extra-medium text-dark-gray"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </li>
-                    <!-- end gallery item -->
-                    <!-- start gallery item -->
-                    <li class="grid-item transition-inner-all">
-                        <div class="gallery-box border-radius-6px">
-                            <a href="admin/assets/images/demo-green-energy-home-slider-img-05.jpg" data-group="lightbox-gallery" title="Lightbox gallery image title">
-                                <div class="position-relative gallery-image bg-dark-gray overflow-hidden">
-                                    <img src="admin/assets/images/demo-green-energy-home-slider-img-05.jpg" alt="" />
-                                    <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
-                                        <div class="d-flex align-items-center justify-content-center w-60px h-60px rounded-circle bg-white">
-                                            <i class="icon feather icon-feather-search icon-extra-medium text-dark-gray"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </li>
-                    <!-- end gallery item -->
-                    <!-- start gallery item -->
-                    <li class="grid-item transition-inner-all">
-                        <div class="gallery-box border-radius-6px">
-                            <a href="admin/assets/images/demo-green-energy-home-slider-img-04.jpg" data-group="lightbox-gallery" title="Lightbox gallery image title">
-                                <div class="position-relative gallery-image bg-dark-gray overflow-hidden">
-                                    <img src="admin/assets/images/demo-green-energy-home-slider-img-04.jpg" alt="" />
-                                    <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
-                                        <div class="d-flex align-items-center justify-content-center w-60px h-60px rounded-circle bg-white">
-                                            <i class="icon feather icon-feather-search icon-extra-medium text-dark-gray"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </li>
-                    <!-- end gallery item -->
-                    <!-- start gallery item -->
-                    <li class="grid-item transition-inner-all">
-                        <div class="gallery-box border-radius-6px">
-                            <a href="admin/assets/images/demo-green-energy-home-slider-img-06.jpg" data-group="lightbox-gallery" title="Lightbox gallery image title">
-                                <div class="position-relative gallery-image bg-dark-gray overflow-hidden">
-                                    <img src="admin/assets/images/demo-green-energy-home-slider-img-06.jpg" alt="" />
-                                    <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
-                                        <div class="d-flex align-items-center justify-content-center w-60px h-60px rounded-circle bg-white">
-                                            <i class="icon feather icon-feather-search icon-extra-medium text-dark-gray"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </li>
-                    <!-- end gallery item -->
-                    <!-- start gallery item -->
-                    <li class="grid-item transition-inner-all">
-                        <div class="gallery-box border-radius-6px">
-                            <a href="admin/assets/images/demo-green-energy-home-slider-img-03.jpg" data-group="lightbox-gallery" title="Lightbox gallery image title">
-                                <div class="position-relative gallery-image bg-dark-gray overflow-hidden">
-                                    <img src="admin/assets/images/demo-green-energy-home-slider-img-03.jpg" alt="" />
-                                    <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
-                                        <div class="d-flex align-items-center justify-content-center w-60px h-60px rounded-circle bg-white">
-                                            <i class="icon feather icon-feather-search icon-extra-medium text-dark-gray"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </li>
-                    <!-- end gallery item -->
+                   
                 </ul>
             </div>
         </div>
