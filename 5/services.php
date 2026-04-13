@@ -19,7 +19,9 @@ include_once "components/services-header.php";
                 <!-- start services box style -->
                 <div class="border-radius-8px overflow-hidden box-shadow-quadruple-large services-box-style-03 last-paragraph-no-margin">
                     <div class="position-relative">
-                        <a href="demo-logistics-services-details.html"><img src="admin/assets/img/image2.jpg" alt=""></a>
+                        <a href="<?php echo SERVICE ?>">
+                            <img src="admin/assets/img/image2.jpg" alt="">
+                        </a>
                     </div>
                     <div>
                         <div class="p-30px w-90 xl-w-100 mx-auto text-center">
@@ -43,12 +45,16 @@ include_once "components/services-header.php";
                 <!-- end services box style -->
             </div>
 
-            <!-- Single Service  -->
+
+
+             <!-- Single Service  -->
             <div class="col mb-30px">
                 <!-- start services box style -->
                 <div class="border-radius-8px overflow-hidden box-shadow-quadruple-large services-box-style-03 last-paragraph-no-margin">
                     <div class="position-relative">
-                        <a href="demo-logistics-services-details.html"><img src="admin/assets/img/image2.jpg" alt=""></a>
+                        <a href="<?php echo SERVICE ?>">
+                            <img src="admin/assets/img/image2.jpg" alt="">
+                        </a>
                     </div>
                     <div>
                         <div class="p-30px w-90 xl-w-100 mx-auto text-center">
@@ -73,12 +79,14 @@ include_once "components/services-header.php";
             </div>
 
 
-            <!-- Single Service  -->
+             <!-- Single Service  -->
             <div class="col mb-30px">
                 <!-- start services box style -->
                 <div class="border-radius-8px overflow-hidden box-shadow-quadruple-large services-box-style-03 last-paragraph-no-margin">
                     <div class="position-relative">
-                        <a href="demo-logistics-services-details.html"><img src="admin/assets/img/image2.jpg" alt=""></a>
+                        <a href="<?php echo SERVICE ?>">
+                            <img src="admin/assets/img/image2.jpg" alt="">
+                        </a>
                     </div>
                     <div>
                         <div class="p-30px w-90 xl-w-100 mx-auto text-center">
@@ -102,66 +110,7 @@ include_once "components/services-header.php";
                 <!-- end services box style -->
             </div>
 
-
-            <!-- Single Service  -->
-            <div class="col mb-30px">
-                <!-- start services box style -->
-                <div class="border-radius-8px overflow-hidden box-shadow-quadruple-large services-box-style-03 last-paragraph-no-margin">
-                    <div class="position-relative">
-                        <a href="demo-logistics-services-details.html"><img src="admin/assets/img/image2.jpg" alt=""></a>
-                    </div>
-                    <div>
-                        <div class="p-30px w-90 xl-w-100 mx-auto text-center">
-                            <!-- <a href="demo-logistics-services-details.html" class="d-inline-block fs-20 fw-600 text-dark-gray mb-5px">Roads & Highways</a> -->
-                            <p  class="d-inline-block fs-20 fw-600 text-dark-gray mb-5px">Roads & Highways</p>
-                            <p>Urban and rural roads, interstate highways, multi-lane carriageways, pavement engineering, and road rehabilitation design.</p>
-                        </div>
-
-                        <div class="d-none d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                            <a href="demo-logistics-services-details.html" class="btn btn-link btn-hover-animation-switch fw-700 btn-small text-dark-gray text-uppercase">
-                                <span>
-                                    <span class="btn-text">Explore services</span>
-                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                </span>
-                            </a>
-                        </div>
-                        
-                    </div>
-                </div>
-                <!-- end services box style -->
-            </div>
-
-
-            <!-- Single Service  -->
-            <div class="col mb-30px">
-                <!-- start services box style -->
-                <div class="border-radius-8px overflow-hidden box-shadow-quadruple-large services-box-style-03 last-paragraph-no-margin">
-                    <div class="position-relative">
-                        <a href="demo-logistics-services-details.html"><img src="admin/assets/img/image2.jpg" alt=""></a>
-                    </div>
-                    <div>
-                        <div class="p-30px w-90 xl-w-100 mx-auto text-center">
-                            <!-- <a href="demo-logistics-services-details.html" class="d-inline-block fs-20 fw-600 text-dark-gray mb-5px">Roads & Highways</a> -->
-                            <p  class="d-inline-block fs-20 fw-600 text-dark-gray mb-5px">Roads & Highways</p>
-                            <p>Urban and rural roads, interstate highways, multi-lane carriageways, pavement engineering, and road rehabilitation design.</p>
-                        </div>
-
-                        <div class="d-none d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                            <a href="demo-logistics-services-details.html" class="btn btn-link btn-hover-animation-switch fw-700 btn-small text-dark-gray text-uppercase">
-                                <span>
-                                    <span class="btn-text">Explore services</span>
-                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                </span>
-                            </a>
-                        </div>
-                        
-                    </div>
-                </div>
-                <!-- end services box style -->
-            </div>
-
+           
 
            
         </div>
@@ -179,32 +128,23 @@ include_once "components/services-header.php";
     <div class="container">
         <div class="row align-items-start">
             <div class="col-xl-7 col-lg-8 md-mb-35px">
-                <h6 class="text-dark-gray fw-600" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>Our small size enables us to service our clients closely and gives us the flexibility to adapt to changing scenarios in the design world.</h6>
+                <h6 class="text-dark-gray fw-600" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                    Our small size enables us to service our clients closely and gives us the flexibility to adapt to changing scenarios in the design world.
+                </h6>
                 <div class="row row-cols-1 row-cols-sm-3">
                     <div class="col">
                         <ul class="p-0 m-0 list-style-02" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Warehousing</li>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Transportation</li>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Reverse logistics</li>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Customs clearance</li>
+                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Construction</li>
+                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Construction</li>
                         </ul>
                     </div>
                     <div class="col">
                         <ul class="p-0 m-0 list-style-02" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Freight forwarding</li>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Freight forwarding</li>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Cargo tracking</li>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Express delivery</li>
+                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Construction</li>
+                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Construction</li>
                         </ul>
                     </div>
-                    <div class="col">
-                        <ul class="p-0 m-0 list-style-02" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Packaging & crating</li>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Cold chain logistics</li>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Supply chain</li>
-                            <li class="pb-5px"><i class="fa-solid fa-plus fs-12 me-10px"></i>Value-added services</li>
-                        </ul>
-                    </div>
+                    
                 </div>
             </div>
             <div class="col-lg-4 offset-xl-1 position-relative">

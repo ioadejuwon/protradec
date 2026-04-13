@@ -33,21 +33,10 @@
     <!-- <meta name="facebook-domain-verification" content="znfjwpevns3jhyzsnxuulz5q86paei"/> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta name="viewport" content="height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-    <!-- favicon -->
-    <link rel="shortcut icon" href="admin/assets/images/favicon.png">
-    <link rel="apple-touch-icon" href="admin/assets/images/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="admin/assets/images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="admin/assets/images/apple-touch-icon-114x114.png">
-    <!-- google fonts preconnect -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <!-- style sheets and font icons  -->
-
-
 
 
     <!-- favicon icon -->
-    <link rel="shortcut icon" href="admin/assets/images/favicon.png">
+    <link rel="shortcut icon" href="admin/assets/img/fav.png">
     <link rel="apple-touch-icon" href="admin/assets/images/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="72x72" href="admin/assets/images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="admin/assets/images/apple-touch-icon-114x114.png">

@@ -7,7 +7,7 @@
                 <div
                     class="col text-center border-end border-color-transparent-dark-very-light sm-border-end-0 sm-border-top transition-inner-all pt-45px pb-45px sm-pt-30px sm-pb-30px">
                     <div class="client-box">
-                        <a href="#"><img src="admin/assets/images/demo-logistics-client-01.svg" alt="" /></a>
+                        <a href="#"><img src="admin/assets/img/pisl-logo.png" alt=""  style="width: 50%;"/></a>
                     </div>
                 </div>
                 <!-- end client item -->
@@ -15,7 +15,7 @@
                 <div
                     class="col text-center border-end border-color-transparent-dark-very-light sm-border-end-0 sm-border-top transition-inner-all pt-45px pb-45px sm-pt-30px sm-pb-30px">
                     <div class="client-box">
-                        <a href="#"><img src="admin/assets/images/demo-logistics-client-02.svg" alt="" /></a>
+                        <a href="#"><img src="admin/assets/img/pisl-logo.png" alt=""  style="width: 50%;"/></a>
                     </div>
                 </div>
                 <!-- end client item -->
@@ -23,7 +23,7 @@
                 <div
                     class="col text-center border-end border-color-transparent-dark-very-light sm-border-end-0 sm-border-top transition-inner-all pt-45px pb-45px sm-pt-30px sm-pb-30px">
                     <div class="client-box">
-                        <a href="#"><img src="admin/assets/images/demo-logistics-client-03.svg" alt="" /></a>
+                        <a href="#"><img src="admin/assets/img/pisl-logo.png" alt=""  style="width: 50%;"/></a>
                     </div>
                 </div>
                 <!-- end client item -->
@@ -31,7 +31,7 @@
                 <div
                     class="col text-center border-end border-color-transparent-dark-very-light sm-border-end-0 md-border-top transition-inner-all pt-45px pb-45px sm-pt-30px sm-pb-30px">
                     <div class="client-box">
-                        <a href="#"><img src="admin/assets/images/demo-logistics-client-04.svg" alt="" /></a>
+                        <a href="#"><img src="admin/assets/img/pisl-logo.png" alt=""  style="width: 50%;"/></a>
                     </div>
                 </div>
                 <!-- end client item -->
@@ -39,7 +39,7 @@
                 <div
                     class="col text-center border-end border-color-transparent-dark-very-light sm-border-end-0 md-border-top transition-inner-all pt-45px pb-45px sm-pt-30px sm-pb-30px">
                     <div class="client-box">
-                        <a href="#"><img src="admin/assets/images/demo-logistics-client-05.svg" alt="" /></a>
+                        <a href="#"><img src="admin/assets/img/pisl-logo.png" alt=""  style="width: 50%;"/></a>
                     </div>
                 </div>
                 <!-- end client item -->
@@ -47,7 +47,7 @@
                 <div
                     class="col text-center border-end border-color-transparent-dark-very-light sm-border-end-0 md-border-top transition-inner-all pt-45px pb-45px sm-pt-30px sm-pb-30px">
                     <div class="client-box">
-                        <a href="#"><img src="admin/assets/images/demo-logistics-client-06.svg" alt="" /></a>
+                        <a href="#"><img src="admin/assets/img/pisl-logo.png" alt=""  style="width: 50%;"/></a>
                     </div>
                 </div>
                 <!-- end client item -->

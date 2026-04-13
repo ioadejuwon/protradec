@@ -14,11 +14,8 @@
                          <i
                              class="feather icon-feather-mail text-base-color me-10px">
                          </i>
-                         <a
-                             href="/cdn-cgi/l/email-protection#7e1011530c1b0e12073e1a11131f1710501d1113"
-                             class="widget text-light-gray text-white-hover">
-                             <span class="__cf_email__"
-                                 data-cfemail="325c5d1f4057425e4b72565d5f535b5c1c515d5f">[email&#160;protected]</span>
+                         <a href="mailto:protradec@gmail.com" class="widget text-light-gray text-white-hover">
+                             protradec@gmail.com
                          </a>
                      </span>
                  </div>
@@ -35,7 +32,7 @@
      <nav class="navbar navbar-expand-lg header-light bg-white header-reverse" data-header-hover="light">
          <div class="container-fluid">
              <div class="col-auto">
-                 <a class="navbar-brand" href="demo-logistics.html">
+                 <a class="navbar-brand" href="<?php echo HOME ?>">
                      <img src="admin/assets/img/PISL-Logo.png" data-at2x="admin/assets/img/PISL-Logo.png" alt="" class="default-logo">
                      <!-- <img src="admin/assets/images/demo-logistics-logo-black.png" data-at2x="admin/assets/images/demo-logistics-logo-black@2x.png" alt="" class="default-logo"> -->
                      <img src="admin/assets/img/PISL-Logo.png" data-at2x="admin/assets/img/PISL-Logo.png" alt="" class="alt-logo">
@@ -63,40 +60,23 @@
                              </i>
                              <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                  <li>
-                                     <a href="demo-logistics-services-details.html">
+                                     <a href="<?php echo SERVICE ?>">
                                          <i class="line-icon-Plane-2 align-middle text-base-color"></i>
-                                         Air freight
+                                            Construction
                                      </a>
                                  </li>
-                                 <li>
-                                     <a href="demo-logistics-services-details.html">
-                                         <i class="line-icon-Road-3 align-middle text-base-color"></i>
-                                         Road freight
-                                     </a>
-                                 </li>
-                                 <li>
-                                     <a href="demo-logistics-services-details.html">
-                                         <i class="line-icon-Ship-2 align-middle text-base-color"></i>
-                                         Ocean freight
-                                     </a>
-                                 </li>
-                                 <li>
-                                     <a href="demo-logistics-services-details.html">
-                                         <i class="line-icon-Tram align-middle text-base-color"></i>
-                                         Train freight
-                                     </a>
-                                 </li>
+                               
                              </ul>
                          </li>
                          <li class="nav-item">
                              <a href="<?php echo PROJECTS ?>" class="nav-link">
-                                Project
-                            </a>
+                                 Project
+                             </a>
                          </li>
-                          <li class="nav-item">
+                         <li class="nav-item">
                              <a href="<?php echo BLOG ?>" class="nav-link">
-                                Blog
-                            </a>
+                                 Blog
+                             </a>
                          </li>
                          <li class="nav-item">
                              <a href="<?php echo CONTACT ?>" class="nav-link">Contact
@@ -107,7 +87,7 @@
              </div>
              <div class="col-auto ms-auto ps-lg-0 d-none d-sm-flex">
                  <div class="header-icon">
-                     
+
                      <div class="header-button ms-25px">
                          <a href="demo-logistics-contact-us.html"
                              class="btn btn-small btn-base-color btn-hover-animation-switch btn-round-edge btn-box-shadow fw-700 ls-0px btn-icon-left">

@@ -27,7 +27,7 @@ if ($_SERVER['HTTP_HOST'] == 'localhost:8888') {
 define('HOME', BASE_URL);
 define('ABOUT', 'about');
 define('SERVICES', 'services');
-define('SERVICE', 'service/');
+define('SERVICE', 'service');
 define('PROJECTS', 'projects');
 define('PROJECT', 'project');
 define('BLOG', 'blog');

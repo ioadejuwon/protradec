@@ -7,7 +7,7 @@
            <div class="row align-items-center justify-content-center">
                <div class="col-lg-6 col-md-10 md-mb-50px"
                    data-anime='{ "translate": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                   <img src="admin/assets/images/demo-logistics-home-01.jpg" class="w-100"
+                   <img src="admin/assets/img/home-01.jpg" class="w-100"
                        data-bottom-top="transform: translateY(-50px)" data-top-bottom="transform: translateY(50px)"
                        alt="">
                </div>

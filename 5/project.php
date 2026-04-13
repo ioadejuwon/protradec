@@ -62,7 +62,7 @@ include_once "components/project-header.php";
                     <div class="col-lg-8 order-1 order-lg-2 md-mb-50px" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                         <h4 class="text-dark-gray fw-700 ls-minus-1px mb-20px d-block">Our ocean freight services</h4>
                         <p>Our logistics business specializes in providing reliable and efficient ocean freight services to meet all your shipping needs. Whether you require full container loads or less than container loads, we have the expertise to handle your cargo with care.</p>
-                        <img src="images/demo-logistics-services-details-01.jpg" class="mt-30px md-mt-15px mb-60px md-mb-40px border-radius-6px" alt="">
+                        <img src="admin/assets/img/image1.jpg" class="mt-30px md-mt-15px mb-60px md-mb-40px border-radius-6px" alt="">
                         <div class="row row-cols-1 row-cols-md-2 mb-30px md-mb-15px">
                             <div class="col">
                                 <span class="fs-22 text-dark-gray fw-700 mb-10px d-block">Full container load shipping</span>
@@ -73,7 +73,7 @@ include_once "components/project-header.php";
                                 <p class="w-90 sm-w-100">Lorem ipsum dolor amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
                             </div>
                         </div>
-                        <div class="cover-background p-7 border-radius-6px mb-60px md-mb-40px d-flex justify-content-end align-items-end sm-h-500px" style="background-image: url(images/demo-logistics-services-details-02.jpg)">
+                        <div class="cover-background p-7 border-radius-6px mb-60px md-mb-40px d-flex justify-content-end align-items-end sm-h-500px" style="background-image: url(admin/assets/img/image2.jpg);">
                             <div class="bg-white box-shadow-quadruple-large border-radius-4px w-50 lg-w-55 sm-w-100 overflow-hidden">
                                 <div class="p-40px lg-p-25px last-paragraph-no-margin">
                                     <span class="fs-22 text-dark-gray fw-700 mb-10px d-block">Customs clearance</span>
@@ -92,7 +92,7 @@ include_once "components/project-header.php";
                         </div>
                         <div class="row align-items-center g-0">
                             <div class="col-auto d-block d-sm-flex align-items-center text-center text-sm-start">
-                                <img src="images/demo-pizza-parlor-about-03.png" alt="" />
+                                <img src="admin/assets/img/fav.png" alt=""  style="width: 5%;"/>
                                 <div class="fw-500 last-paragraph-no-margin text-dark-gray ps-15px xs-ps-0 xs-mt-15px">
                                     <p>Save your time and effort spent for finding a solution. <a href="demo-logistics-contact-us.html" class="text-decoration-line-bottom fw-700 text-dark-gray">Contact us now</a></p>
                                 </div>

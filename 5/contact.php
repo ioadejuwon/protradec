@@ -32,7 +32,7 @@ include_once "components/contact-header.php";
                     <div class="col services-box-style-02 mb-30px">
                         <div class="row g-0 box-shadow-quadruple-large border-radius-6px overflow-hidden">
                             <div class="col-lg-6 col-sm-6">
-                                <div class="h-100 cover-background xs-h-300px" style="background-image: url(admin/assets/images/demo-yoga-and-meditation-contact-01.jpg)"></div>
+                                <div class="h-100 cover-background xs-h-300px" style="background-image: url(admin/assets/img/square.png)"></div>
                             </div>
                             <div class="col-lg-6 col-sm-6 bg-white box-shadow-extra-large p-30px">
                                 <div class="services-box-content last-paragraph-no-margin">
@@ -60,41 +60,29 @@ include_once "components/contact-header.php";
                     </div>
                     <!-- end services box item -->
                     <!-- start services box item -->
-                    <div class="col services-box-style-02 mb-30px d-none">
+                    <div class="col services-box-style-02 mb-30px d-non">
                         <div class="row g-0 box-shadow-quadruple-large border-radius-6px overflow-hidden">
                             <div class="col-lg-6 col-sm-6">
-                                <div class="h-100 cover-background xs-h-300px" style="background-image: url(admin/assets/images/demo-yoga-and-meditation-contact-02.jpg)"></div>
+                                <div class="h-100 cover-background xs-h-300px" style="background-image: url(admin/assets/img/about.png)"></div>
                             </div>
                             <div class="col-lg-6 col-sm-6 bg-white box-shadow-extra-large p-30px">
                                 <div class="services-box-content last-paragraph-no-margin">
-                                    <span class="d-block text-dark-gray fw-700 fs-19 mb-10px">San Francisco</span>
-                                    <p>777 Magnolia farme ville, San Francisco, 93223</p>
-                                    <a href="#" class="fs-17 lh-22 fw-500 text-dark-gray text-decoration-line-bottom d-inline-block mb-25px">View on map</a>
-                                    <div class="text-dark-gray fw-600"><i class="feather icon-feather-phone-call icon-small me-10px text-dark-gray"></i><a href="tel:+1-2345678910">+1234 567 8910</a></div>
+                                    <span class="d-block text-dark-gray fw-700 fs-19 mb-10px">Abuja</span>
+                                    <p>Febson Hotel, Plot 2425, Herbert Merculay Way, Wuse Zone 4, Abuja</p>
+                                    <div class="text-dark-gray fw-600">
+                                        <i class="feather icon-feather-phone-call icon-small me-10px text-dark-gray"></i>
+                                        <a href="tel:+234-818-956-3105">+234 (0) 818 956 3105</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- end services box item -->
-                    <!-- start services box item -->
-                    <div class="col services-box-style-02 md-mb-30px d-none">
-                        <div class="row g-0 box-shadow-quadruple-large border-radius-6px overflow-hidden">
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="h-100 cover-background xs-h-300px" style="background-image: url(admin/assets/images/demo-yoga-and-meditation-contact-03.jpg)"></div>
-                            </div>
-                            <div class="col-lg-6 col-sm-6 bg-white box-shadow-extra-large p-30px">
-                                <div class="services-box-content last-paragraph-no-margin">
-                                    <span class="d-block text-dark-gray fw-700 fs-19 mb-10px">Paris</span>
-                                    <p>959 Seven forks tower, Paris, France, 30557</p>
-                                    <a href="#" class="fs-17 lh-22 fw-500 text-dark-gray text-decoration-line-bottom d-inline-block mb-25px">View on map</a>
-                                    <div class="text-dark-gray fw-600"><i class="feather icon-feather-phone-call icon-small me-10px text-dark-gray"></i><a href="tel:+1-2345678910">+1234 567 8910</a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end services box item -->
+                   
                 </div>
             </div>
+
+            
         </div>
     </div>
 </section>

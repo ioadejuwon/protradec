@@ -7,7 +7,7 @@ include_once "components/header.php";
 include_once "components/home-sliders.php";
 include_once "components/section-2.php";
 include_once "components/brands.php"; 
-include_once "components/service-slider.php";
+include_once "components/project-slider.php";
 include_once "components/faqs.php";
 // include_once "components/projects-slider.php";
 ?>
